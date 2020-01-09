@@ -1,8 +1,8 @@
 
 var friends = [
   {
-    name: "Ahmed",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+    name: "Chandler",
+    photo: "https://qph.fs.quoracdn.net/main-qimg-7f5b51550630457f9eabd0a37db16ad3",
     scores: [
       "5",
       "1",
@@ -17,8 +17,8 @@ var friends = [
     ]
   },
   {
-    name: "Jacob Deming",
-    photo: "https://pbs.twimg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+    name: "Monica",
+    photo: "https://vignette.wikia.nocookie.net/friends/images/c/c4/Monica_overalls.jpg/revision/latest/scale-to-width-down/267?cb=20190210055646",
     scores: [
       "4",
       "2",
@@ -33,8 +33,8 @@ var friends = [
     ]
   },
   {
-    name: "Jeremiah Scanlon",
-    photo: "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+    name: "Joey",
+    photo: "https://yt3.ggpht.com/-X_mGI-FkQ8Q/AAAAAAAAAAI/AAAAAAAAAAA/E-eoiMjk11k/s900-c-k-no/photo.jpg",
     scores: [
       "5",
       "2",
@@ -49,8 +49,8 @@ var friends = [
     ]
   },
   {
-    name: "Louis T. Delia",
-    photo: "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+    name: "Phoebe",
+    photo: "https://s-media-cache-ak0.pinimg.com/originals/a4/88/e1/a488e1f4141157c9e3d2cec5c589f220.jpg",
     scores: [
       "3",
       "3",
@@ -65,8 +65,8 @@ var friends = [
     ]
   },
   {
-    name: "Lou Ritter",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+    name: "Rachel",
+    photo: "https://4.bp.blogspot.com/-eIovSvY5PiI/Wl_OVZ1q-XI/AAAAAAAAGT4/EGCnubXW85c_GL1vDDoVaeR2AuFIIwxhQCLcBGAs/s1600/head%2Bshot.jpg",
     scores: [
       "4",
       "3",
@@ -81,8 +81,8 @@ var friends = [
     ]
   },
   {
-    name: "Jordan Biason",
-    photo: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+    name: "Ross",
+    photo: "https://vignette.wikia.nocookie.net/warner-bros-entertainment/images/d/dd/6FA26EB3-AB8E-41B5-80B3-63555E1E044D.jpeg/revision/latest?cb=20171026033035",
     scores: [
       "4",
       "4",
